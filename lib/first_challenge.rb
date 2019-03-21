@@ -1,3 +1,5 @@
+require 'pry'
+
 def first_challenge
   contacts = {
     "Jon Snow" => {
@@ -13,7 +15,6 @@ def first_challenge
     }
   }
 
-  binding.pry
   #remember to return your newly altered contacts hash!
   contacts
 end
