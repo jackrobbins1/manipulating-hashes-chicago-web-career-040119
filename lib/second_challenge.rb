@@ -14,3 +14,5 @@ def second_challenge
   puts list
 
 end
+
+second_challenge
