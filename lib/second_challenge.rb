@@ -8,8 +8,8 @@ def second_challenge
 
   #code your solution here!
   groceries.collect do |cat, items|
-    
+    items
   end
-  
+
 
 end
